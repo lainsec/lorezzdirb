@@ -6,7 +6,9 @@
 python3 ldbr.py https://example.com /path/to/wordlist.txt
 </pre>
 <a>If you get any issue please comment</a>
-<a>If missing any package just type copy and paste the following commands</a>
+<br>
+</br>
+<a>If missing any package just copy and paste the following commands</a>
 <pre align="left">
   pip install colorama
   pip install requests
