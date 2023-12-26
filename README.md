@@ -1,16 +1,16 @@
 <h1 align="left">OPENSOURCE DIRB SRICPT MADE BY LOREZZ</h1>
 
 ###
-
+<a>How to use</a>
 <pre align="left">
-If you get any issue please comment
-If missing any package just type copy and paste the following commands
+python3 ldbr.py https://example.com /path/to/wordlist.txt
+</pre>
+<a>If you get any issue please comment</a>
+<a>If missing any package just type copy and paste the following commands</a>
+<pre align="left">
   pip install colorama
   pip install requests
   pip install urllib
-
-enjoy :)
-
 </pre>
 
 ###
