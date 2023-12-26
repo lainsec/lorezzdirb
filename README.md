@@ -10,9 +10,9 @@ python3 ldbr.py https://example.com /path/to/wordlist.txt
 </br>
 <a>If missing any package just copy and paste the following commands</a>
 <pre align="left">
-  pip install colorama
-  pip install requests
-  pip install urllib
+pip install colorama
+pip install requests
+pip install urllib
 </pre>
 
 ###
