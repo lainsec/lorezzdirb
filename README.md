@@ -5,6 +5,10 @@
 <pre align="left">
 python3 ldbr.py https://example.com /path/to/wordlist.txt
 </pre>
+<a>How to install</a>
+<pre align="left">
+git clone https://github.com/LorezZ1000/lorezzdirb
+</pre>
 <a>If you get any issue please comment</a>
 <br>
 </br>
